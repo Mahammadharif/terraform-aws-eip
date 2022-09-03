@@ -1,5 +1,5 @@
 locals {
-    eip_tags = {
-        Name = "${var.eip}-vpc"
-    }
+  eip_tags = {
+    Name = "${var.eip}-vpc"
+  }
 }
